@@ -1,4 +1,4 @@
-## Olá! eu sou a Guilherme! 
+## Olá! eu sou o Guilherme! 
 
 - <p>💻 &ensp;Desenvolvedor FullStack</p>
 - <p>⚙ &ensp;Skill Principal Java</p>
