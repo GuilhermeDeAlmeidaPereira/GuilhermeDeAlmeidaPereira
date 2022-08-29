@@ -1,8 +1,8 @@
 ## Olá! eu sou o Guilherme! 
 
-- <p>💻 &ensp;Desenvolvedor FullStack</p>
+- <p>💻 &ensp;Analista e Desenvolvedor de Sistemas</p>
 - <p>⚙ &ensp;Skill Principal Java</p>
-- <p>✏&ensp;Estudando HTML & CSSS</p>
+- <p>✏&ensp;Estudando HTML & CSS</p>
 - <p>🏹&ensp;Meu objetivo é ser desenvolvedor FullStack especialista.</p>
 
 <br/>
