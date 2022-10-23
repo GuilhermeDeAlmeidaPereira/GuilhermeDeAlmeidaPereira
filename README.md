@@ -1,8 +1,10 @@
 ## Olá! eu sou o Guilherme! 
 
-- <p>💻 &ensp;Analista e Desenvolvedor de Sistemas</p>
-- <p>✏&ensp;Estudando na Facens</p>
-- <p>🏹&ensp;Meu objetivo é ser desenvolvedor Fullstack especialista.</p>
+- <p>💻 &ensp;Analista e Desenvolvedor de Sistemas.</p>
+- <p>💻&ensp;Estagiando no Exército Brasileiro.</p>
+- <p>✏&ensp;Estudando na Facens.</p>
+- <p>🏹&ensp;Meu objetivo é ser desenvolvedor Fullstack.</p>
+
 
 <br/>
  <div>
@@ -15,14 +17,15 @@
  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  <div style="display: inline_block"><br>
   <img align="center" title="Java" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="C#" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="C" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="40"/>&nbsp;
-</div>
- 
+  <img align="center" title="MySQL"  alt="MySQL" width="30" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png">
+   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+   <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  </div>
   
   ##
  
