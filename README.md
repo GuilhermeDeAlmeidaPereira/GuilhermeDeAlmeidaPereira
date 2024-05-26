@@ -2,9 +2,9 @@
 
 - <p>💻 &ensp;Specialization in Software Architecture.</p>
 - <p>💻 &ensp;Analysis and Development of Systems.</p>
-- <p>💻&ensp;IT Department of the Brazilian Army.</p>
-- <p>✏&ensp;Student at Facens.</p>
-- <p>🏹&ensp;Fullstack Developer.</p>
+- <p>🔰 &ensp;IT Department of the Brazilian Army.</p>
+- <p>✏ &ensp;Student at Facens.</p>
+- <p>🏹 &ensp;Fullstack Developer.</p>
 
 
 <br/>
