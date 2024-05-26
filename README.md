@@ -1,9 +1,10 @@
-## Olá! eu sou o Guilherme! 
+## Hello! I'm Guilherme!
 
-- <p>💻 &ensp;Analista e Desenvolvedor de Sistemas.</p>
-- <p>💻&ensp;Estagiando no Exército Brasileiro.</p>
-- <p>✏&ensp;Estudando na Facens.</p>
-- <p>🏹&ensp;Meu objetivo é ser desenvolvedor Fullstack.</p>
+- <p>💻 &ensp;Specialization in Software Architecture.</p>
+- <p>💻 &ensp;Analysis and development of systems.</p>
+- <p>💻&ensp;IT Department of the Brazilian Army.</p>
+- <p>✏&ensp;Student at Facens.</p>
+- <p>🏹&ensp;Fullstack Developer.</p>
 
 
 <br/>
@@ -25,6 +26,11 @@
   <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png">
    <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
    <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+   <img align="center" title="NodeJs" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+   <img align="center" title="Android" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+   <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" title="laravel" alt="laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg">
+  
   </div>
   
   ##
