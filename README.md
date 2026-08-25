@@ -1,40 +1,76 @@
-## 👋 Hello! I'm Guilherme Pereira
+# Hi, I'm Guilherme 👋
 
-### 🚀 About Me
-I'm a **Software Developer** passionate about building scalable and efficient solutions. I hold a **degree in Systems Analysis and Development** and a **specialization in Software Architecture**. Currently, I’m expanding my expertise in **DevOps, Cloud Computing, Big Data, Business Analytics, and Machine Learning & Deep Learning** as part of my postgraduate studies.
+### IT Professional | Software Developer | Technical Support
 
-### 💼 Experience & Education
-- 🎓 **Postgraduate Student** | Software Architecture
-- 💻 **Fullstack Developer** | Proficient in Backend & Frontend Technologies
-- 🏛️ **IT Department | Brazilian Army**
-- 🎯 **Passionate About Cloud, DevOps & AI**
+I'm an IT professional based in **Brisbane, Australia**, with experience across technical support, software development, systems and networking.
 
-### 🛠️ Tech Stack & Skills
-#### 🔹 Programming Languages
-- Java | C | Python | JavaScript | TypeScript | PHP
+I have professional experience as an **IT Support Technician in Brisbane** and previously spent three years working in IT within the **Brazilian Army**, supporting hardware, software, networks, IT assets and operational systems.
 
-#### 🔹 Web Development
-- HTML | CSS | Angular | Node.js | Laravel
+I hold a degree in **Analysis and Systems Development** and a postgraduate qualification in **Software Architecture**. I'm currently completing an **Advanced Diploma of Information Technology** in Brisbane.
 
-#### 🔹 Database Management
-- MySQL | PostgreSQL
+## 🔧 Technical Focus
 
-#### 🔹 Cloud & DevOps
-- Docker | Kubernetes | AWS | Azure | CI/CD
+**IT & Systems**
 
-#### 🔹 Machine Learning & Data Science
-- TensorFlow | Scikit-learn | Pandas | NumPy | Big Data
+* Technical Support & Troubleshooting
+* Windows & Linux
+* Hardware & Software Support
+* Networking Fundamentals
+* IT Operations
+* Cybersecurity Fundamentals
 
-### 📊 GitHub Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeAlmeidaPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeAlmeidaPereira&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+**Software Development**
 
-### 🌍 Let's Connect!
-<a href="mailto:almeida.gui.pereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilhermedealmeidapereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+* Java
+* Python
+* JavaScript & TypeScript
+* React
+* Node.js
+* REST APIs
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+**Data & Databases**
+
+* SQL
+* MySQL
+* SQL Server
+* MongoDB
+* Data Analysis
+* Machine Learning
+
+**Cloud & DevOps**
+
+* Git & GitHub
+* Docker
+* CI/CD
+* AWS Fundamentals
+
+## 🚀 Current Focus
+
+I'm currently strengthening my skills in:
+
+* IT Support & Service Desk
+* Microsoft enterprise environments
+* Cloud technologies
+* Software development
+* Machine Learning & Data Analysis
+
+## 🤖 Featured Work
+
+### Intelligent Fraud Detection
+
+Machine Learning and automation project focused on identifying suspicious financial transactions using Python and data-driven fraud detection techniques.
+
+Technologies include Python, Pandas, NumPy, Scikit-learn, XGBoost and Random Forest.
+
+## 🎓 Education
+
+* Advanced Diploma of Information Technology — Australia *(In Progress)*
+* Postgraduate Qualification in Software Architecture — FACENS
+* Analysis & Systems Development — FACENS
+
+## 📍 Brisbane, Australia
+
+Currently open to opportunities in **IT Support, Service Desk, ICT Support, Technical Support and Junior Software Development**.
+
 
 
