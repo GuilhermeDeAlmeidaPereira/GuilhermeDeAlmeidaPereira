@@ -8,6 +8,16 @@ I have professional experience as an **IT Support Technician in Brisbane** and p
 
 I hold a degree in **Analysis and Systems Development** and a postgraduate qualification in **Software Architecture**. I'm currently completing an **Advanced Diploma of Information Technology** in Brisbane.
 
+## 🌐 Featured Portfolio
+
+### [guilhermedealmeidapereira.github.io](https://guilhermedealmeidapereira.github.io/)
+
+My professional portfolio showcasing my **IT support experience, software development background, technical skills, education and selected projects**.
+
+Built with **HTML5, CSS3 and Vanilla JavaScript**, with responsive design, accessibility, SEO, GitHub Pages deployment and a downloadable CV.
+
+[**View Live Portfolio →**](https://guilhermedealmeidapereira.github.io/) · [Source Code](https://github.com/GuilhermeDeAlmeidaPereira/GuilhermeDeAlmeidaPereira.github.io)
+
 ## 🔧 Technical Focus
 
 **IT & Systems**
@@ -71,6 +81,3 @@ Technologies include Python, Pandas, NumPy, Scikit-learn, XGBoost and Random For
 ## 📍 Brisbane, Australia
 
 Currently open to opportunities in **IT Support, Service Desk, ICT Support, Technical Support and Junior Software Development**.
-
-
-
